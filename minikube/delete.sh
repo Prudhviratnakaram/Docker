@@ -5,3 +5,4 @@ export TF_VAR_HOSTED_ZONE=${hname}
 terraform init
 terraform destroy -auto-approve
 
+
